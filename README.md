@@ -1,3 +1,10 @@
-# Carlos Valdez
+# Hi, I'm Carlos! ✨
 
-Hi! My name is Carlos Valdez, and I'm currently an Informatics undergraduate student at the [University of California, Irvine](https://uci.edu) under the [School of Information and Computer Sciences](https://ics.uci.edu). I'm also a developer on [Black Swan 3D Printing](https://blackswan3d.com/).
+I'm a software developer! I mainly work with Python and TypeScript. That's all you really need these days, right?
+
+Look at what else I can do:
+
+- 📚 Study Informatics at the [University of California, Irvine](https://informatics.uci.edu/)
+- 🤝🏽 Lead a research project in the [Undergraduate Research Lab](https://markbaldw.in/url/)
+- 🦢 Develop software for [Black Swan 3D Printing](https://blackswan3d.com/)
+- 🤔 ... and probably more! Go to [my website](https://calejvaldez.com/) to see if I forgot anything
