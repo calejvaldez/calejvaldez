@@ -7,4 +7,4 @@ Look at what else I can do:
 - 📚 Study Informatics at the [University of California, Irvine](https://informatics.uci.edu/)
 - 🤝🏽 Lead a research project in the [Undergraduate Research Lab](https://markbaldw.in/url/)
 - 🦢 Develop software for [Black Swan 3D Printing](https://blackswan3d.com/)
-- 🤔 ... and probably more! Go to [my website](https://calejvaldez.com/) to see if I forgot anything
+- 🤔 ... and probably more!
