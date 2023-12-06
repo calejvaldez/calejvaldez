@@ -5,6 +5,6 @@ I'm a software developer! I mainly work with Python and TypeScript. That's all y
 Look at what else I do:
 
 - 📚 Study Informatics at the [University of California, Irvine](https://informatics.uci.edu/)
-- 🤝🏽 Lead the [Ojos Project](https://gitlab.ics.uci.edu/ojosproject/) under the [Undergraduate Research Lab](https://markbaldw.in/url/)
+- 🤝🏽 Lead the [Ojos Project](https://github.com/ojosproject/) under the [Undergraduate Research Lab](https://markbaldw.in/url/)
 - 🦢 Develop software for [Black Swan 3D Printing](https://blackswan3d.com/)
 - 🤔 ... and probably more!
