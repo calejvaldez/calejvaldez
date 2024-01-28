@@ -6,5 +6,5 @@ Look at what else I do:
 
 - 📚 Study Informatics at the [University of California, Irvine](https://informatics.uci.edu/)
 - 🤝🏽 Lead the [Ojos Project](https://ojos.calejvaldez.com/) under the [Undergraduate Research Lab](https://markbaldw.in/url/)
-- 🦢 Develop software for [Black Swan 3D Printing](https://blackswan3d.com/)
-- 🤔 ... and probably more!
+- 🦢 Open source contributor for [Black Swan 3D Printing](https://blackswan3d.com/)
+- 🤔 ... and probably more! Visit [calejvaldez.com](https://calejvaldez.com) for more info!
