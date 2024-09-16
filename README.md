@@ -1,7 +1,5 @@
 # I am Carlos Valdez
 
-![Carlos' Gravatar](https://gravatar.com/avatar/41bb2938e02bf5326eb6b82ec02d919ca97cf68b376c4c5769fbba4acc85a190?s=150)
-
 ## About Me
 
 I am a student at the [University of California, Irvine](https://uci.edu/)
