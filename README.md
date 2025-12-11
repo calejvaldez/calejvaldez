@@ -8,4 +8,4 @@ pipelines, and secured funding for a UCI research project. I'm always learning
 from others and open to new ideas. Let's connect about full-stack roles or
 collaborative projects!
 
-💻 View my work and contact info at <https://calejvaldez.com/card/>.
+💻 View my work and contact info at <https://vldz.tech/card/>.
